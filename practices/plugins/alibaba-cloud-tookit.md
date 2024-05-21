@@ -11,3 +11,7 @@ Alibaba Cloud Toolkit 插件允许我们通过一系列的配置来制定代码�
 ![idea-plugin-alibaba-cloud-toolkit-host-list](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/1d993fd3a7d368aa9728a51bf7e845de.png)
 
 ![idea-plugin-alibaba-cloud-toolkit-deploy-to-host](https://picgo-daily.oss-cn-guangzhou.aliyuncs.com/picgo-daily/2023/4ef58d55dae740e55f7cc60801bd4217.png)
+
+
+## 总结
+我还没用过这个插件
