@@ -17,6 +17,7 @@
     "vuepress": "^1.8.2"
   },
   "dependencies": {
+    "chokidar": "^3.6.0",
     "esm": "^3.2.25",
     "moment": "^2.29.1",
     "vuepress-plugin-code-copy": "^1.0.6",

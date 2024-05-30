@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'IntelliJ IDEA 最佳实践',
+  title: 'IntelliJ IDEA 最佳实践-- 郭战旗',
   description: 'IntelliJ IDEA 最佳实践, best-practice-intellij-idea, IntelliJ IDEA 教程, IntelliJ IDEA 优化',
   head: [
     ['link', { rel: 'icon', href: '/assets/images/favicon.png' }],

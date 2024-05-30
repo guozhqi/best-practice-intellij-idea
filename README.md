@@ -8,18 +8,21 @@ actionLink: /practices/
 features:
   - title: 基础配置
     link: /practices/settings/
-    details: 神枪百炼，细琢精雕
+    details: 装机必备
   - title: 原生能力
-    details: 璞玉浑金，秀外慧中
+    details: 进阶发现
   - title: 精选插件
-    details: 刀枪剑戟，谁能称王
-footer: MIT Licensed | Copyright © 2021-present Seven-Steven
+    details: 插件为王
+footer: MIT Licensed | Copyright xxx
 ---
 
 ## 简介
 
-这是我个人在 IDEA 使用过程中的经验总结，内容涵盖了对[基础配置](/practices/settings/)的打磨、[原生能力](/practices/capacity/)的发掘以及[精选插件](/practices/plugins/)推荐，一定会对你有所帮助。
+这是我个人在 IDEA 使用过程中的经验总结，内容涵盖了对[基础配置](/practices/settings/)的打磨、[原生能力](/practices/capacity/)的发掘以及[精选插件](/practices/plugins/)
 
+最初的版本是fork了[@honghaoz](https://github.com/honghaoz)的[IntelliJ IDEA 最佳实践](https://github.com/honghaoz/IntelliJ-IDEA-Tutorial)
+
+## 声明
 一个人的能力始终是有限的，文章内容可能会缺漏和错误。
 
-如果您发现了文章中的错漏或者有更好的经验想与大家分享，欢迎[参与贡献](https://github.com/Seven-Steven/best-practice-intellij-idea)。
+如果您发现了文章中的错漏或者有更好的经验想与大家分享，欢迎[参与贡献](https://github.com/guozhqi/best-practice-intellij-idea)。
